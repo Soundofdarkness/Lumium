@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Lumium",
+  "name": "Lumium",
+  "description": "More Lights aaaand some stuff",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Soundoflight"
+  ],
+  "credits": "Soundoflight",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
